@@ -1,21 +1,20 @@
-# Proyecto de práctica en Python – Análisis de datos de seguros médicos
+Python Practice Project – Medical Insurance Data Analysis
 
-Este proyecto es un ejercicio de práctica para fortalecer mis bases en **análisis de datos e insights** usando únicamente **Python nativo** (sin librerías externas como pandas o matplotlib).  
-El dataset contiene información de pacientes (edad, sexo, IMC, número de hijos, hábito de fumar, región y cargos de seguro).
+This project is a practice exercise designed to strengthen my foundations in data analysis and insight generation using native Python only (without external libraries such as pandas or matplotlib).
+The dataset includes patient information such as age, sex, BMI, number of children, smoking status, region, and insurance charges.
 
-## Objetivos del proyecto
-- Practicar la lectura y manipulación de archivos CSV en Python.  
-- Trabajar con **listas** y **diccionarios** para organizar la información.  
-- Desarrollar funciones propias para calcular métricas y segmentaciones.  
-- Reforzar habilidades en análisis que aplican al estudio del **comportamiento del consumidor**.  
+Project Objectives:
+-Practice reading and processing CSV files using pure Python.
+-Work with lists and dictionaries to structure data.
+-Develop custom functions to calculate metrics and segment data.
+-Reinforce analytical thinking applied to consumer behavior and decision-making patterns.
+-Analyses Performed
+-Average age of patients.
+-Count of male vs. female patients.
+-Identification of unique regions represented in the dataset.
+-Average total insurance charges.
+-Comparison of charges between smokers and non-smokers.
+-Average BMI segmented by smoking status and sex.
 
-## Análisis realizados
-- Edad promedio de los pacientes.  
-- Conteo de hombres vs mujeres.  
-- Regiones únicas representadas.  
-- Promedio de cargos de seguro total.  
-- Comparación de cargos: fumadores vs no fumadores.  
-- Promedio de IMC segmentado por hábito de fumar y sexo.  
-
-## Nota
-Este es un proyecto de **práctica**. El enfoque principal está en ejercitar la lógica de programación y reforzar la base técnica antes de escalar a herramientas más avanzadas de análisis de datos.  
+Note
+This is a practice project. The primary focus is on developing programming logic and reinforcing core technical skills before moving on to more advanced data analysis tools.
